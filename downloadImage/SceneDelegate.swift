@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  combineTest
+
 //
 //  Created by Александр Белый on 19.11.2024.
 //

@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BA07BF482CEC60C5006C73AE /* combineTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = combineTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA07BF482CEC60C5006C73AE /* DownloadImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DownloadImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		BA07BF5A2CEC60C7006C73AE /* Exceptions for "combineTest" folder in "combineTest" target */ = {
+		BA07BF5A2CEC60C7006C73AE /* Exceptions for "downloadImage" folder in "DownloadImage" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = BA07BF472CEC60C5006C73AE /* combineTest */;
+			target = BA07BF472CEC60C5006C73AE /* DownloadImage */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		BA07BF4A2CEC60C5006C73AE /* combineTest */ = {
+		BA07BF4A2CEC60C5006C73AE /* downloadImage */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				BA07BF5A2CEC60C7006C73AE /* Exceptions for "combineTest" folder in "combineTest" target */,
+				BA07BF5A2CEC60C7006C73AE /* Exceptions for "downloadImage" folder in "DownloadImage" target */,
 			);
-			path = combineTest;
+			path = downloadImage;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		BA07BF3F2CEC60C5006C73AE = {
 			isa = PBXGroup;
 			children = (
-				BA07BF4A2CEC60C5006C73AE /* combineTest */,
+				BA07BF4A2CEC60C5006C73AE /* downloadImage */,
 				BA07BF492CEC60C5006C73AE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		BA07BF492CEC60C5006C73AE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BA07BF482CEC60C5006C73AE /* combineTest.app */,
+				BA07BF482CEC60C5006C73AE /* DownloadImage.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BA07BF472CEC60C5006C73AE /* combineTest */ = {
+		BA07BF472CEC60C5006C73AE /* DownloadImage */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BA07BF5B2CEC60C7006C73AE /* Build configuration list for PBXNativeTarget "combineTest" */;
+			buildConfigurationList = BA07BF5B2CEC60C7006C73AE /* Build configuration list for PBXNativeTarget "DownloadImage" */;
 			buildPhases = (
 				BA07BF442CEC60C5006C73AE /* Sources */,
 				BA07BF452CEC60C5006C73AE /* Frameworks */,
@@ -74,13 +74,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				BA07BF4A2CEC60C5006C73AE /* combineTest */,
+				BA07BF4A2CEC60C5006C73AE /* downloadImage */,
 			);
-			name = combineTest;
+			name = DownloadImage;
 			packageProductDependencies = (
 			);
 			productName = combineTest;
-			productReference = BA07BF482CEC60C5006C73AE /* combineTest.app */;
+			productReference = BA07BF482CEC60C5006C73AE /* DownloadImage.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BA07BF432CEC60C5006C73AE /* Build configuration list for PBXProject "combineTest" */;
+			buildConfigurationList = BA07BF432CEC60C5006C73AE /* Build configuration list for PBXProject "DownloadImage" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BA07BF472CEC60C5006C73AE /* combineTest */,
+				BA07BF472CEC60C5006C73AE /* DownloadImage */,
 			);
 		};
 /* End PBXProject section */
@@ -316,7 +316,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BA07BF432CEC60C5006C73AE /* Build configuration list for PBXProject "combineTest" */ = {
+		BA07BF432CEC60C5006C73AE /* Build configuration list for PBXProject "DownloadImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BA07BF5E2CEC60C7006C73AE /* Debug */,
@@ -325,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BA07BF5B2CEC60C7006C73AE /* Build configuration list for PBXNativeTarget "combineTest" */ = {
+		BA07BF5B2CEC60C7006C73AE /* Build configuration list for PBXNativeTarget "DownloadImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BA07BF5C2CEC60C7006C73AE /* Debug */,
